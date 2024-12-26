@@ -127,7 +127,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fzhou97" height="30" width="40" />
   </a>
   <a href="mailto:fzhou1997@gmail.com" target="blank">
-    <img align="center" src="/res/images/mail_40dp_E8EAED_FILL1_wght400_GRAD0_opsz40.svg" alt="fzhou1997@gmail.com" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/Fzhou1997/Fzhou1997/865c9aff6ce3e28f865491ebf5550ec09b9f6fa9/res/images/mail_40dp_1976D2_FILL1_wght400_GRAD0_opsz40.svg" alt="fzhou1997@gmail.com" height="30" width="40" />
   </a>  
 </p>
 
