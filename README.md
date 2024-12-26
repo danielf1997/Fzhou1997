@@ -1,6 +1,6 @@
 <H1 align="middle"> 👋 Hi there, I'm Zhou (read /jō/ 😉) </H1>
 
-<strong><center>an AI engineer with a background in computer science and cognitive psychology <br/> exploring the intersection of deep learning and neuroscience</center></strong>
+<p align="middle"><strong>an AI engineer with a background in computer science and cognitive psychology <br/> exploring the intersection of deep learning and neuroscience</strong></p>
 
 <br>
 <H2> 👤 About Me </H2>
