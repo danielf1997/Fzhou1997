@@ -1,6 +1,6 @@
 <H1 align="middle"> 👋 Hi there, I'm Zhou (read /jō/ 😉) </H1>
 
-<p align="middle">an AI engineer with a background in computer science and cognitive psychology <br/> exploring the intersection of deep learning and neuroscience</p>
+<strong><center>an AI engineer with a background in computer science and cognitive psychology <br/> exploring the intersection of deep learning and neuroscience</center></strong>
 
 <br>
 <H2> 👤 About Me </H2>
@@ -122,8 +122,14 @@
 <br>
 <H2> 📫 Contact Me </H2>
 
-- **🤝 LinkedIn:** [linkedin.com/in/fzhou97](https://www.linkedin.com/in/fzhou97)
-- **📧 Email:** [fzhou1997@gmail.com](mailto:fzhou1997@gmail.com)
+<p align="left" style="margin-left: 20px;">
+  <a href="https://linkedin.com/in/fzhou97" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fzhou97" height="30" width="40" />
+  </a>
+  <a href="mailto:fzhou1997@gmail.com" target="blank">
+    <img align="center" src="/res/images/mail_40dp_E8EAED_FILL1_wght400_GRAD0_opsz40.svg" alt="fzhou1997@gmail.com" height="30" width="40" />
+  </a>  
+</p>
 
 <br>
 <H3 align="middle"> 🌟 Thanks for dropping by! 🌟 </H3>
