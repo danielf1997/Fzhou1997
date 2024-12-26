@@ -2,6 +2,7 @@
 
 <p align="middle">an AI engineer with a background in computer science and cognitive psychology <br/> exploring the intersection of deep learning and neuroscience</p>
 
+<br>
 <H2> 👤 About Me </H2>
 
 <H3> 💼 Experience </H3>
@@ -31,6 +32,7 @@
   - Investigated the relationship between aspects of personality dimensions and aesthetic preferences
   - Advised by Dr. Pascal Wallisch
 
+<br>
 <H2> 🏗️ My Projects </H2>
 
 - **[Deep Learning LSTM for Genomic Privacy]()** ✨🧬 
@@ -41,18 +43,21 @@
   - CS6140 - Machine Learning course project
   - [] Kaggle project
 
+<br>
 <H2> 🌱 My Goals </H2>
 
 - Build a career in AI Engineering, developing innovative solutions to real-world problems 💼
 - Pursue a PhD in Computational Neuroscience 🎓
 - Contribute to the open-source community and share knowledge with others 🧩
 
+<br>
 <H2> 🔍 My Research Interests </H2>
 
 - Social Intelligence in Language Models 🗣️
 - Attention-augmented Memory Networks 🧠
 - Explainable attention mechanisms 🤔
 
+<br>
 <H2> 🧰 My Skills </H2>
 
 <H3> 🔤 Programming Languages </H3>
@@ -78,10 +83,12 @@
 - Unity Engine
 - Unreal Engine
 
+<br>
 <H2> 📫 Contact Me </H2>
 
 - **🤝 LinkedIn:** [linkedin.com/in/fzhou97](https://www.linkedin.com/in/fzhou97)
 - **📧 Email:** [fzhou1997@gmail.com](mailto:fzhou1997@gmail.com)
 
+<br>
 <H3 align="middle"> 🌟 Thanks for dropping by! 🌟 </H3>
 <p align="middle"> Didn't find what you were looking for? Check back again in a while. I just might surprise you!</p>
