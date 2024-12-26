@@ -112,7 +112,7 @@
 
 <p align="left" style="margin-left: 20px;">
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-plain.svg" alt="unity" width="35.6" height="40"/> 
   </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
@@ -127,7 +127,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fzhou97" height="30" width="40" />
   </a>
   <a href="mailto:fzhou1997@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/Fzhou1997/Fzhou1997/865c9aff6ce3e28f865491ebf5550ec09b9f6fa9/res/images/mail_40dp_1976D2_FILL1_wght400_GRAD0_opsz40.svg" alt="fzhou1997@gmail.com" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/Fzhou1997/Fzhou1997/865c9aff6ce3e28f865491ebf5550ec09b9f6fa9/res/images/mail_40dp_1976D2_FILL1_wght400_GRAD0_opsz40.svg" alt="fzhou1997@gmail.com" height="40" width="40" />
   </a>  
 </p>
 
