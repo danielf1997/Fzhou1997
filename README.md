@@ -35,11 +35,10 @@
 <br>
 <H2> 🏗️ My Projects </H2>
 
-- **[Deep Learning LSTM for Genomic Privacy]()** ✨🧬
-    - Explores the deep learning LSTM networks for anonymizing federated genomic data while preserving utility for
-      research
+- **[Deep Learning LSTM for Genomic Privacy](https://github.com/Fzhou1997/Masters-Research-Genomic-Privacy)** ✨🧬
+    - Explores using deep learning LSTM networks for re-identification of anonymized genomic data
     - Master's Thesis project
-- **[Machine Learning Architectures for Disease Spread Prediction]()** ✨🦠
+- **[Machine Learning Architectures for Disease Spread Prediction](https://github.com/Fzhou1997/Machine-Learning-Kernalized-Gaussian-Discriminant-Analysis-for-Graph-Spread-Prediction)** ✨🦠
     - Investigated various machine learning architectures for predicting the spread of infectious diseases in population
       graphs
     - CS6140 - Machine Learning course project
@@ -75,7 +74,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
