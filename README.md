@@ -102,22 +102,28 @@
   <img src="https://skillicons.dev/icons?i=angular,react,html,css" />
 </p>
 
-<H3> 🎮 Game Development </H3>
-
-<p align="left" style="margin-left: 20px;">
-  <img src="https://skillicons.dev/icons?i=unity,unrealengine"/>
-</p>
-
 <H3> 🔢 Databases </H3>
 
 <p align="left" style="margin-left: 20px;">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
+<H3> ⚓ DevOps and Orchestration </H3>
+
+<p align="left" style="margin-left: 20px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker"/>
+</p>
+
 <H3> ☁️ Cloud Computing </H3>
 
 <p align="left" style="margin-left: 20px;">
   <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud"/>
+</p>
+
+<H3> 🎮 Game Development </H3>
+
+<p align="left" style="margin-left: 20px;">
+  <img src="https://skillicons.dev/icons?i=unity,unrealengine"/>
 </p>
 
 <br>
