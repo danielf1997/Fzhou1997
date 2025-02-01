@@ -86,57 +86,38 @@
 <H3> 🔤 Programming Languages </H3>
 
 <p align="left" style="margin-left: 20px;"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js" />
 </p>
 
 <H3> ✨ AI Engineering </H3>
 
+
 <p align="left" style="margin-left: 20px;">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 <H3> 🌐 Web Development </H3>
 
 <p align="left" style="margin-left: 20px;"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css" />
 </p>
 
 <H3> 🎮 Game Development </H3>
 
 <p align="left" style="margin-left: 20px;">
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-plain.svg" alt="unity" width="35.6" height="40"/> 
-  </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
+  <img src="https://skillicons.dev/icons?i=unity,unrealengine"/>
+</p>
+
+<H3> 🔢 Databases </H3>
+
+<p align="left" style="margin-left: 20px;">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+</p>
+
+<H3> ☁️ Cloud Computing </H3>
+
+<p align="left" style="margin-left: 20px;">
+  <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud"/>
 </p>
 
 <br>
@@ -144,10 +125,10 @@
 
 <p align="left" style="margin-left: 20px;">
   <a href="https://linkedin.com/in/fzhou97" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fzhou97" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:fzhou1997@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/Fzhou1997/Fzhou1997/865c9aff6ce3e28f865491ebf5550ec09b9f6fa9/res/images/mail_40dp_1976D2_FILL1_wght400_GRAD0_opsz40.svg" alt="fzhou1997@gmail.com" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>  
 </p>
 
