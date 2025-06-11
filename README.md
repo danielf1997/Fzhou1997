@@ -1,4 +1,4 @@
-<H1 align="middle"> 👋 Hi there, I'm Zhou (read /jō/ 😉, or you can call me Daniel) </H1>
+<H1 align="middle"> 👋 Hi there, I'm Daniel (or you can call me Zhou, read /jō/ 😉) </H1>
 
 <p align="middle"><strong>an AI engineer with an interdisciplinary background in computer science and psychology <br/> combining machine learning and cognitive neuroscience to develop human-centered, neuromorphic AI systems</strong></p>
 
